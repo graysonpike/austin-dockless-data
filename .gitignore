@@ -1,3 +1,6 @@
+# Project-specific files
+data/Dockless_Vehicle_Trips.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
