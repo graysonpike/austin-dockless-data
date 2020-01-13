@@ -3,6 +3,8 @@ Analysis tools for the Dockless Mobility dataset published by the City of Austin
 
 You can find this dataset at https://data.austintexas.gov/Transportation-and-Mobility/Dockless-Vehicle-Trips/7d8e-dm7r
 
+The main function of this script is to generate a database of Devices (by ID) from the supplied database of Trips. From this new database, it is possible to find the distribution of lifespan and revenue for dockless devices.
+
 
 ### Virtual Environment
 It is strongly recommended to use a Python virtual environment. To create a virtual env, use the venv feature of python3. Run the command below in the root project directory. Recommended folder name for the virtual environment is env.
